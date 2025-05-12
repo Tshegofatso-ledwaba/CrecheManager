@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f7f9fc"/>
+  
+  <!-- Sun -->
+  <circle cx="700" cy="100" r="60" fill="#FFD700"/>
+  
+  <!-- Grass -->
+  <rect x="0" y="450" width="800" height="150" fill="#7CAE7A"/>
+  
+  <!-- Tree -->
+  <rect x="100" y="300" width="30" height="150" fill="#8B4513"/>
+  <circle cx="115" cy="250" r="70" fill="#228B22"/>
+  
+  <!-- Child 1 -->
+  <circle cx="300" cy="400" r="40" fill="#FFB6C1"/>
+  <circle cx="300" cy="320" r="30" fill="#FFC0CB"/>
+  <rect x="285" y="430" width="10" height="50" fill="#FFB6C1"/>
+  <rect x="305" y="430" width="10" height="50" fill="#FFB6C1"/>
+  <rect x="270" y="380" width="10" height="40" fill="#FFB6C1"/>
+  <rect x="320" y="380" width="10" height="40" fill="#FFB6C1"/>
+  
+  <!-- Child 2 -->
+  <circle cx="450" cy="400" r="40" fill="#ADD8E6"/>
+  <circle cx="450" cy="320" r="30" fill="#E0FFFF"/>
+  <rect x="435" y="430" width="10" height="50" fill="#ADD8E6"/>
+  <rect x="455" y="430" width="10" height="50" fill="#ADD8E6"/>
+  <rect x="420" y="380" width="10" height="40" fill="#ADD8E6"/>
+  <rect x="470" y="380" width="10" height="40" fill="#ADD8E6"/>
+  
+  <!-- Child 3 -->
+  <circle cx="600" cy="420" r="40" fill="#FFDAB9"/>
+  <circle cx="600" cy="340" r="30" fill="#FFE4C4"/>
+  <rect x="585" y="450" width="10" height="50" fill="#FFDAB9"/>
+  <rect x="605" y="450" width="10" height="50" fill="#FFDAB9"/>
+  <rect x="570" y="400" width="10" height="40" fill="#FFDAB9"/>
+  <rect x="620" y="400" width="10" height="40" fill="#FFDAB9"/>
+  
+  <!-- Ball -->
+  <circle cx="375" cy="500" r="25" fill="#FF6347"/>
+  <line x1="375" y1="475" x2="375" y2="525" stroke="white" stroke-width="2"/>
+  <line x1="350" y1="500" x2="400" y2="500" stroke="white" stroke-width="2"/>
+  
+  <!-- Cloud 1 -->
+  <ellipse cx="200" cy="100" rx="70" ry="40" fill="white"/>
+  <ellipse cx="150" cy="100" rx="50" ry="30" fill="white"/>
+  <ellipse cx="250" cy="100" rx="50" ry="30" fill="white"/>
+  
+  <!-- Cloud 2 -->
+  <ellipse cx="500" cy="150" rx="60" ry="35" fill="white"/>
+  <ellipse cx="450" cy="150" rx="45" ry="25" fill="white"/>
+  <ellipse cx="550" cy="150" rx="45" ry="25" fill="white"/>
+
+  <!-- Smiles -->
+  <path d="M290,340 Q300,360 310,340" stroke="black" stroke-width="2" fill="none"/>
+  <path d="M440,340 Q450,360 460,340" stroke="black" stroke-width="2" fill="none"/>
+  <path d="M590,360 Q600,380 610,360" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- Eyes -->
+  <circle cx="290" cy="320" r="5" fill="black"/>
+  <circle cx="310" cy="320" r="5" fill="black"/>
+  <circle cx="440" cy="320" r="5" fill="black"/>
+  <circle cx="460" cy="320" r="5" fill="black"/>
+  <circle cx="590" cy="340" r="5" fill="black"/>
+  <circle cx="610" cy="340" r="5" fill="black"/>
+</svg>
